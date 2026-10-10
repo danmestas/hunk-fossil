@@ -1,0 +1,7 @@
+{
+  "name": "hunk-fossil",
+  "version": "0.1.0",
+  "description": "Fossil and zit backends for hunk: hunk diff and hunk show inside a fossil or zit checkout",
+  "license": "BSD-2-Clause",
+  "hunk": { "extensions": ["./index.ts"] }
+}
